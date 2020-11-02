@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.button-class{
+    
+    width: 150px;
+    height: 50px;
+    background-color: lightseagreen;
+    color: black
+    border-radius: 4px;
+    
+}
+
+
+#button-container {
+    display: flex
+    flex-direction: column
+}
